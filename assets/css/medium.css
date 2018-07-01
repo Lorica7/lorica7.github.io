@@ -1,0 +1,141 @@
+@media screen and (min-width 769px)
+and (max-width 980px) {
+
+
+    main {
+        width: 100%;
+        margin: auto;
+        background-color: #ffffff;
+        border: #dddddd solid 2px;
+        margin-top: 40px;
+        margin-bottom: 120px;
+        height: 50%;
+    }
+/*Portfolio */
+
+.containerPort {
+    display:grid;
+    grid-template-columns: 15% 15% 15%;
+    width: 90%;
+    justify-content: space-evenly;
+    margin: auto;
+    position: relative;
+}
+#Design{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    max-width: 100%;
+    height: auto;
+    
+}
+
+#BizCode {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    max-width: 100%;
+    height: auto;
+    
+}
+
+#Music {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    max-width: 100%;
+    height: auto;
+}
+.banner1 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    text-align:center;
+    line-height: 40px;
+    height: 40px;
+    left: 15px;
+    top: 220px;
+    
+}
+
+#WALL-E {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    max-width: 100%;
+    height: auto;
+
+}
+
+#Mentor{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    max-width: 100%;
+    height: auto;
+
+}
+
+#Volunteer {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    max-width: 100%;
+    height: auto;
+
+}
+
+.banner2 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    text-align:center;
+    line-height: 40px;
+    height: 40px;
+    left: 330px;
+    top: 220px;
+    width: 300px;
+}
+
+.banner3 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    text-align:center;
+    line-height: 40px;
+    height: 40px;
+    left: 645px;
+    top: 220px;
+    width: 300px;
+}
+.banner4 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    text-align:center;
+    line-height: 40px;
+    height: 40px;
+    left: 15px;
+    bottom: 30px;
+    width: 300px;
+}
+
+.banner5 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    text-align:center;
+    line-height: 40px;
+    height: 40px;
+    left: 330px;
+    bottom:30px;
+    width: 300px;
+}
+
+.banner6 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    text-align:center;
+    line-height: 40px;
+    height: 40px;
+    left: 645px;
+    bottom: 15px;
+    width: 300px;
+}
+    
+}

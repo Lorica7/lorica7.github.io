@@ -1,0 +1,64 @@
+@media screen and (min-width: 641px)
+and (max-width: 768px){
+
+    main {
+         width: 94%;
+        margin:auto;
+        margin-top: 5%;
+        }
+        
+    header {
+        background-color: #ffffff;
+        overflow: auto;
+        display: flex;
+        flex-direction: row;
+        height: 80px;
+        
+        border-bottom-color: #cccccc
+    }
+    
+    #Name {
+       float: left;
+        background-color: #4aaaa5;
+        text-align: center;
+        margin-left: 5%;
+        margin-top: 0%;
+        margin-bottom: 0%;
+        color: #ffffff;
+        line-height: 80px;
+        clear:none;
+    }
+    
+    #middle {
+    display:none; 
+    background-color: green;
+        }
+        
+    }
+    nav{
+        float: right;
+        margin-right: 2%;
+        clear: none;
+        padding-top: 3%;
+    } 
+    
+    ul {
+        display: inline;
+        padding-top: 10%;
+    }
+    
+    li {
+        display: inline;
+        text-align: center;
+        margin: auto;
+        padding: 3%;
+        width: 33%;
+    }
+    
+    #List2 {
+        border-right: #cccccc solid 2px;
+        border-left: #cccccc solid 2px;
+    }
+    }
+    
+    

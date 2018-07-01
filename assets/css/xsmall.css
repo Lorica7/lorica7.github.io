@@ -1,0 +1,215 @@
+@media screen and (min-width:400px)
+and (max-width: 640px) 
+{
+
+    /* Index.html */
+
+.woman {
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 55%;
+    float: none;
+    }
+    
+p {
+    display: block;
+    clear: left;
+    padding:5%;
+    
+    }
+
+main {
+    display: block;
+    background-color: white;
+    }
+/*
+h1 {
+    padding-left: 5%
+} */
+/*
+.margins {
+        margin: auto;
+    } */
+    /* universal header */
+   
+header {
+        background-color: #ffffff;
+        border-bottom-color: #cccccc;
+        display: flex;
+        flex-direction: column;
+        height: 120px;
+        align-content: center;
+    }
+
+#Name {
+        background-color: #4aaaa5;
+        text-align: center;
+        flex-direction: column;
+        margin: auto;
+        color: #ffffff;
+        line-height: 35px;
+        padding-top: 15px;
+        order: 1;
+        flex-grow: 1;
+        width: 100%;
+     }
+         
+#middle {
+    display:none; 
+    }
+
+    nav{
+    height: 40px;
+    width: 100%;
+    margin: auto; 
+    order:2;
+    background-color: white;
+    align-items: center;
+    } 
+         
+     ul {
+    align-items: center;
+    flex-direction: row;
+    background-color: white;   
+     }
+         
+    li {
+    padding-bottom: 10px;
+    flex-shrink: 0.75;
+    margin: auto;
+    width: 16%;
+    
+    }
+
+    #List1 {
+    text-align: right;
+    margin-left: 15%
+    }
+
+    #List2 {
+    text-align: center;
+    padding-right: 5%;
+    padding-left: 5%;
+
+    }
+
+    #List3 {
+    text-align: left;
+    margin-right: 25%;
+    padding-left: 5%;
+    }
+    /* Portfolio.html */
+
+.containerPort {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 10%;
+    padding:0px;
+    max-width: 200px;
+    
+}
+ #Design {
+    object-fit: scale-down;
+    margin: auto;
+    align-self: center;
+}   
+ 
+#BizCode {
+    object-fit: scale-down;
+    margin: auto;
+    align-self: center;
+    margin-top:8%;
+}
+
+#Music{
+   object-fit: scale-down;
+    margin: auto;
+    align-self: center;
+    margin-top: 8%;
+
+}  
+#WALL-E {
+    display: none;
+    align-self: center;
+}
+#Volunteer {
+    display: none;
+    align-self: center;
+}
+#Mentor {
+    display:none;
+    align-self: center;
+}
+
+#B1 {
+
+    background-color: #4aaaa5;
+    align-content: center;
+    align-self: center;
+    color: white;
+    text-align:center;
+    line-height: 40px;
+    height: 40px;
+   max-width: 300px;
+}
+
+#B2 {
+    flex-direction: column;
+    align-content: center;
+    align-self: center;
+    background-color: #4aaaa5;
+    color: white;
+    text-align:center;
+    line-height: 40px;
+    height: 40px;
+   width: 300px;
+}
+
+#B3 {
+    flex-direction: column; 
+    align-content: center;
+    align-self: center;
+    background-color: #4aaaa5;
+    color: white;
+    text-align:center;
+    line-height: 40px;
+    height: 40px;
+    width: 300px;
+}
+
+.banner4 {
+    display:none;
+}
+
+.banner5 {
+    display: none;
+}
+.banner6 {
+    display: none;
+
+}
+/* Contact */
+
+#InName, #InEmail {
+  padding: 6px 6px;
+  line-height: 20px;
+  box-sizing: border-box;
+ }
+form {
+  width: 90%;
+  margin:auto;   
+  }
+
+textarea {
+  width: 100%;
+  margin:auto;
+}
+
+#button {
+     margin-bottom: 5%     
+}       
+}
