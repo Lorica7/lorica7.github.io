@@ -20,7 +20,6 @@ and (max-width 980px) {
     justify-content: space-evenly;
     margin: auto;
     position: relative;
-    color: white;
 }
 #Design{
     margin-top: 5%;
