@@ -44,7 +44,7 @@ header {
     }
 
 #Name {
-        background-color: #4aaaa5;
+        background-color: #59c6d6;
         text-align: center;
         flex-direction: column;
         margin: auto;
@@ -147,7 +147,7 @@ header {
 
 #B1 {
 
-    background-color: #4aaaa5;
+    background-color: #59c6d6;
     align-content: center;
     align-self: center;
     color: white;
@@ -161,7 +161,7 @@ header {
     flex-direction: column;
     align-content: center;
     align-self: center;
-    background-color: #4aaaa5;
+    background-color: #59c6d6;
     color: white;
     text-align:center;
     line-height: 40px;
@@ -173,7 +173,7 @@ header {
     flex-direction: column; 
     align-content: center;
     align-self: center;
-    background-color: #4aaaa5;
+    background-color: #59c6d6;
     color: white;
     text-align:center;
     line-height: 40px;
