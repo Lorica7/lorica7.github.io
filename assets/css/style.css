@@ -18,7 +18,7 @@ header {
 
 #Name {
    flex-grow:1;
-    background-color: #4aaaa5;
+    background-color: #59c6d6;
     text-align: center;
     margin-left: 12.5%;
     margin-top: 0%;
@@ -80,7 +80,7 @@ main {
 /*Index*/
 
 h1{
-    color: #4aaaa5;
+    color: #59c6d6;
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
@@ -132,7 +132,7 @@ textarea {
 
  
 #button {
-    background-color: #4aaaa5;
+    background-color: #59c6d6;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: white;
     font-size: 24px;
@@ -176,7 +176,7 @@ textarea {
 
 .banner1 {
     position: absolute;
-    background-color: #4aaaa5;
+    background-color: #59c6d6;
     color: white;
     text-align:center;
     line-height: 40px;
@@ -188,7 +188,7 @@ textarea {
 
 .banner2 {
     position: absolute;
-    background-color: #4aaaa5;
+    background-color: #59c6d6;
     color: white;
     text-align:center;
     line-height: 40px;
@@ -200,7 +200,7 @@ textarea {
 
 .banner3 {
     position: absolute;
-    background-color: #4aaaa5;
+    background-color: #59c6d6;
     color: white;
     text-align:center;
     line-height: 40px;
@@ -211,7 +211,7 @@ textarea {
 }
 .banner4 {
     position: absolute;
-    background-color: #4aaaa5;
+    background-color: #59c6d6;
     color: white;
     text-align:center;
     line-height: 40px;
@@ -223,7 +223,7 @@ textarea {
 
 .banner5 {
     position: absolute;
-    background-color: #4aaaa5;
+    background-color: #59c6d6;
     color: white;
     text-align:center;
     line-height: 40px;
@@ -235,7 +235,7 @@ textarea {
 
 .banner6 {
     position: absolute;
-    background-color: #4aaaa5;
+    background-color: #59c6d6;
     color: white;
     text-align:center;
     line-height: 40px;
