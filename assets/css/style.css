@@ -244,6 +244,10 @@ textarea {
     bottom: 15px;
     width: 300px;
 }
+
+#B1, #B2, #B3, #B4, #B5, #B6 {
+    color: white;   
+}
     
     footer {
     background-color: #666666;
