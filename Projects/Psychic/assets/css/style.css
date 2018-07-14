@@ -1,0 +1,39 @@
+
+
+
+body {
+background-image: url("../images/amulet.jpg");
+font-family: 'Almendra', serif;
+}
+
+.card {
+    margin: auto;
+    padding-bottom: 10px;
+    margin-bottom: 40px;
+    opacity: 0.8;
+    background-color: #666699;
+    color: #ffffff;
+}
+
+.container {
+    margin: auto;
+}
+h6 {
+    margin: auto;
+    padding-bottom: 30px;
+}
+
+#neon {
+    width: 40%;
+    height:30%;
+    margin: auto;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+}
+
+/* font choices 
+
+
+    font-family: 'Almendra', serif;
+
+*/

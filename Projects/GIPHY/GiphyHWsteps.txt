@@ -1,0 +1,38 @@
+Lexically, when objects are created and they are not inside a function,
+
+They are sitting on / get attached to the global object
+
+AT. Global level "this" is equal to the global object (WINDOW).
+
+Outter environment is null at global level.
+When inside a function, outer environment refers to the lexical environment outside of the function
+
+.
+
+***************************
+
+
+Page should start with several buttons in header area.
+Use Bootstrap for styling
+
+Have one input field, make sure to wrap in form tag.
+Include submit button and give everything an ID.
+
+PUT EVENT listener on button, and store everything as a variable. Pass that variable into your makeCall function which will hold the AJAX call. The variable will be plugged into
+A concatenated URL. Also put a variable or placeholder for API key?
+
+Look into Gitignore files for storing the API key. Possibly make a variable for the API key that references the file in GITIGNORE. Put the variable
+Into the concatenated URL for the AJAX call 
+
+Promise.then 
+Or onreturn...  What to do with JSON object...use stringify? The information needs to be stored for the on click event.
+
+Access necessary parts of JSON obj using dot notation. Remember it will be an array of GIPHY objects. Possibly store certain parts as variables.
+
+Use innerHTML or document.write to change content of page. This should remove any old contents and only include the new content that comes after..
+
+Use a for loop to access the array of objects and they same key/value pairs for each object. 
+Append to page or document.write to page.
+
+
+Reference the class activity on button creation and the YouTube video from LearnWebCode on AJAX and JSON.
