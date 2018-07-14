@@ -1,0 +1,169 @@
+/****** BASE STYLES ******/
+
+/*color: #cb806f */
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    background:url('assets/images/sky.jpg');
+    background-size: cover;
+    color: whitesmoke
+}
+
+
+
+/****** GRID ******/
+
+.full-width {
+  /*  width: 1200px; */
+    margin: 0 auto;
+}
+
+/***Header***/
+
+header {
+    height: 800 px;
+    
+}
+header h1 {
+    padding: 50px 0;
+    color:whitesmoke;
+    Font-family: Lora;
+    font-size: 30px;
+}
+
+nav {
+    float: right;
+    padding: 75px 10px;
+}
+nav ul li{
+    display: inline-block;
+}
+nav li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 18px;
+    color: #2b5bbd;
+    padding-left: 40px;
+}
+
+header h2 {
+    clear: both;
+    font-family: Lora;
+    font-size: 48px;
+    line-height: 60px;
+    color: whitesmoke;
+    padding: 20px 0;
+}
+header h2 span {
+ 
+  color: #2b5bbd;
+}
+/****** ABOUT ******/
+
+#about .full-width {
+    padding: 80px 0;
+  
+}
+
+#about h2 {
+    font-family: 'Lora', serif;
+    font-size: 36px;
+}
+#about p {
+    font-size: 21px;
+    color: #2b5bbd;
+    line-height: 42px;
+    padding-right: 50px;
+}
+
+/****** WORK ******/
+
+#work {
+ /*   background-color: #f9ceb7; */
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px
+}
+
+#work img {
+    padding-bottom: 30px; 
+    
+}
+
+#work h3 {
+    font-size: 24px;
+    width: 190px;
+    margin: 0 auto;
+}
+
+#work p {
+    font-family: 'Lora', serif;
+    font-size: 18px;
+    line-height: 30px;
+    color: #2b5bbd;
+    padding: 0 35px; 
+}
+
+#tech {
+    font-style: italic;
+    height: 50px;
+}
+
+#tech a {
+    color:white;
+}
+
+/****** CONTACT ******/
+
+
+#contact  {
+    padding: 30px 0px;
+    margin: 10px;
+}
+#contact-img{
+    border: 5px solid #ffffff;
+    
+}
+#contact h2, #email-header, #socialmedia-header, #contact ul {
+    padding-left: 115px;
+}
+#envelope {
+    padding-left:115px;
+    margin-top: 20px
+}
+
+h5 {
+    padding-left:115px; 
+    color: white; 
+}
+
+#contact h2 {
+    font-family: 'Lora', serif;
+    font-size: 36px;
+}
+#email-header{
+    font-size: 32px;
+    font-weight: 400;
+    margin: 5px 0 5px 0;
+}
+#socialmedia-header {
+    font-weight: bold;
+    font-size: 29px;
+    margin: 40px 0 0px 0;
+}
+#contact a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 28px;
+   
+}
+#contact ul {
+    list-style: none;
+    
+}
+#contact ul li {
+     display: inline-block;
+}
+#contact ul img {
+    font-size: 32px;
+    padding-right: 48px;
+}
